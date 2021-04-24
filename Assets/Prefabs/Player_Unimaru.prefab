@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 41616711655464104}
   - component: {fileID: 41616711655464103}
   - component: {fileID: 41616711655464100}
+  - component: {fileID: -1237590454779193798}
   m_Layer: 0
   m_Name: Player_Unimaru
   m_TagString: Untagged
@@ -128,6 +129,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _moveSpeed: 3
+--- !u!114 &-1237590454779193798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 41616711655464105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273649cdd2d054621ade968ac5912d42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &41616712018404767
 GameObject:
   m_ObjectHideFlags: 0
